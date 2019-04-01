@@ -20,6 +20,8 @@ Material Library is a simple yet powerful component of Lightburn intended to ass
 
 [Video Tutorial #1: Using the Material Library](https://vimeo.com/257846436)
 
+**Note: Please do not go looking for the sample file shown in the video - it is specific to a 5w diode machine, and using it on a CO2 laser would be an excellent way to have an accident. 
+
 The first time you launch LightBurn, an empty Material Library is automatically set up and ready for new entries.  You can easily add to, edit and manage cut settings in this library.  Saved libraries can be loaded and shared from local or network accessed and even cloud based storage for convenience.  To get started, make sure you can see the Material Library window.
 
 - In the top menu, select "Window" to ensure that "Library" is checked on.  If not, select it to turn the window on.  This will display the Material Library window in the lower-right of the display next to a box called "Laser".
